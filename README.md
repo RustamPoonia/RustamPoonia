@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on : Smart Contact Manager(cloud)<br>👯 I’m looking to collaborate on :<br>🤝 I’m looking for help with : Deployment<br>🌱 I’m currently learning : Backend Development<br>💬 Ask me about : Java , Springboot<br>⚡ Fun fact : I am funny
+🔭 I’m currently working on : Smart Contact Manager(cloud)<br>👯 I’m looking to collaborate on :<br>🤝 I’m looking for help with : Deployment<br>🌱 I’m currently learning : Backend Development<br>💬 Ask me about : Java , Springboot<br>⚡ Fun fact : I don’t always test my code… but when I do, I do it in production. 😅💥
 
 
 ## 🌐 Socials:
