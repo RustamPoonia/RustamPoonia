@@ -1,21 +1,78 @@
-# 💫 About Me:
-🔭 I’m currently working on : Smart Contact Manager(cloud)<br>👯 I’m looking to collaborate on :<br>🤝 I’m looking for help with : Deployment<br>🌱 I’m currently learning : Backend Development<br>💬 Ask me about : Java , Springboot<br>⚡ Fun fact : I don’t always test my code… but when I do, I do it in production. 😅💥
+<h1 align="center">Hi, I'm Rustam Poonia 👋</h1>
+<h3 align="center">Backend Developer | Java & Spring Boot Enthusiast | Cloud Learner</h3>
 
-
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rustampoonia@gmail.com) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rustampoonia&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rustampoonia&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rustampoonia&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=rustampoonia&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  🔧 Building a <strong>Smart Contact Manager</strong> on the cloud<br>
+  🚀 Passionate about backend systems, clean code, and cloud deployment<br>
+  🤝 Looking to collaborate on impactful backend projects
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rustampoonia&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+- 🌱 Currently deep-diving into **Backend Development**
+- 🛠️ Building a **Smart Contact Manager** with cloud support
+- 💬 Ask me about **Java**, **Spring Boot**, **JPA**, and **Thymeleaf**
+- 💡 Learning to **deploy full-stack apps** on cloud platforms
+- ⚡ Fun fact: I don’t always test my code… but when I do, it’s in production 😅
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:rustampoonia@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+## 💻 Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+  <img src="https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" />
+  <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rustampoonia&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rustampoonia&theme=radical&hide_border=false&layout=compact" height="200" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=rustampoonia&theme=radical&hide_border=false" />
+</p>
+
+---
+
+## 🏆 Top Contributions
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=rustampoonia&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 📊 Visitor Count
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=rustampoonia&icon=0&color=0" alt="Visitor Count" />
+</p>
+
+---
+
+> 💼 *“Crafting backend systems with precision and purpose — let’s build something great!”*
