@@ -68,15 +68,6 @@
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=rustampoonia&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
-
----
-
-## 📊 Visitor Count
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rustampoonia&icon=0&color=0" alt="Visitor Count" />
-</p>
-
 ---
 
 > 💼 *“Crafting backend systems with precision and purpose — let’s build something great!”*
