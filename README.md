@@ -62,10 +62,3 @@
 </p>
 
 ---
-
-## 🏆 Top Contributions
-
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=rustampoonia&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</p>
-> 💼 *“Crafting backend systems with precision and purpose — let’s build something great!”*
