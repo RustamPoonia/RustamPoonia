@@ -12,23 +12,10 @@
 ## 🚀 About Me
 
 - 🌱 Currently deep-diving into **Backend Development and AI**
-- 🛠️ Building a **Resume Builder** with SpringBoot , REact and Spring AI
-- 💬 Ask me about **Java**, **Spring Boot**, **JPA**, and **Thymeleaf**
+- 🛠️ Building a **Resume Builder** with SpringBoot , React and Spring AI
+- 💬 Ask me about **Java**, **Spring Boot**, **spring security**, and **Thymeleaf**
 - 💡 Learning to **deploy full-stack apps** on cloud platforms
-- ⚡ Fun fact: I don’t always test my code… but when I do, it’s in production 😅
-
 ---
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="mailto:rustampoonia@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
 ## 💻 Tech Stack
 
 <p align="left">
