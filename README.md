@@ -6,11 +6,8 @@
   🚀 Passionate about backend systems, clean code, cloud deployment and AI<br>
 </p>
 
----
-
 ## 🚀 About Me
 
 - 🌱 Currently deep-diving into **Backend Development and AI**
 - 🛠️ Building a **Resume Builder** with SpringBoot , React and Spring AI
 - 💡 Learning to **deploy full-stack apps** on cloud platforms
----
