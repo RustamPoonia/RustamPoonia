@@ -1,5 +1,5 @@
 <h2 align="center">Hi, I'm Rustam Poonia 👋</h2>
-<h3 align="center">Backend Developer | Java & Spring Boot Enthusiast | Cloud Learner</h3>
+<h3 align="center">Data Analyst | AI & ML Enthusiast | Data analysis Learner</h3>
 
 <p align="center">
   🔧 Building a <strong>Resume Builder</strong> Using Spring AI<br>
@@ -8,6 +8,6 @@
 
 ## 🚀 About Me
 
-- 🌱 Currently deep-diving into **Backend Development and AI**
+- 🌱 Currently deep-diving into **Data Analysis and AI**
 - 🛠️ Building a **Resume Builder** with SpringBoot , React and Spring AI
 - 💡 Learning to **deploy full-stack apps** on cloud platforms
