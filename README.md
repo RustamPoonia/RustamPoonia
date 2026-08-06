@@ -2,7 +2,7 @@
 <h3 align="center">Data Analyst | AI & ML Enthusiast | Data analysis Learner</h3>
 
 <p align="center">
-  🔧 Building a <strong>Resume Builder</strong> Using Spring AI<br>
+  🔧 Building a <strong>Automated ETL Systems</strong> Using AI Tools<br>
   🚀 Passionate about backend systems, clean code, cloud deployment and AI<br>
 </p>
 
