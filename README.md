@@ -2,12 +2,13 @@
 <h3 align="center">Data Analyst | AI & ML Enthusiast | Data analysis Learner</h3>
 
 <p align="center">
-  🔧 Building a <strong>Automated ETL Systems</strong> Using AI Tools<br>
-  🚀 Passionate about backend systems, clean code, cloud deployment and AI<br>
+  🔧 Building <strong>Dashboards & Data Analysis</strong> using SQL, Python and Power BI<br>
+ 🤖 Exploring <strong>AI tools</strong> to automate and enhance data workflows<br>
 </p>
 
 ## 🚀 About Me
 
 - 🌱 Currently deep-diving into **Data Analysis and AI**
-- 🛠️ Building a **Resume Builder** with SpringBoot , React and Spring AI
-- 💡 Learning to **deploy full-stack apps** on cloud platforms
+- 📊 Skilled in **SQL, Python (Pandas, Matplotlib, Seaborn), Power BI (DAX, Power Query, Data Modeling), Tableau, and Excel**
+- 📈 Building **interactive dashboards** to turn raw data into business insights
+- 🤖 Exploring **AI tools and Cloud Platforms** to speed up data cleaning, analysis, and reporting workflows
